@@ -11,6 +11,8 @@ This creates an urgent need for the development of **fourth-generation EGFR tyro
 ## Objective
 
 This project aims to identify novel fourth-generation EGFR inhibitors using machine learning-based virtual screening techniques.
+<img width="624" height="261" alt="Screenshot 2026-03-02 at 9 13 46 PM" src="https://github.com/user-attachments/assets/64fc8041-7bfd-489b-9ae4-1a0cc007ab58" />
+
 
 ---
 
@@ -31,7 +33,10 @@ This hybrid approach allowed us to:
 
 - Identify critical molecular descriptors  
 - Reduce dimensionality  
-- Improve model interpretability  
+- Improve model interpretability
+
+<img width="567" height="244" alt="Screenshot 2026-03-02 at 9 15 36 PM" src="https://github.com/user-attachments/assets/e70de366-9d51-451e-aff4-7a1156905cd8" />
+
 
 ---
 
